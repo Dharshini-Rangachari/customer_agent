@@ -1,0 +1,5 @@
+query,issue_type,urgency,feedback
+"I can't access my account",tech,high,positive
+"My bill is incorrect",billing,low,negative
+"App is crashing",tech,low,positive
+"Need refund",billing,high,negative
