@@ -1,0 +1,51 @@
+query,issue_type,urgency,feedback
+"I can't log into my account",billing,high,negative
+"My billing statement is incorrect",billing,high,negative
+"The app crashes on startup",tech,low,positive
+"Requesting a refund for overcharge",tech,low,positive
+"Cannot reset my password",billing,low,positive
+"I was double charged this month",tech,low,negative
+"App won't update to the latest version",billing,low,positive
+"Where can I find my invoice?",billing,low,negative
+"My payment failed",tech,low,positive
+"I am facing login issues",tech,high,negative
+"I want to upgrade my plan",tech,high,positive
+"Live chat isn't working",billing,low,positive
+"I received a suspicious email",tech,low,negative
+"My account was locked",tech,high,positive
+"I never received confirmation email",billing,high,positive
+"Need assistance with subscription cancellation",billing,low,positive
+"The site is showing an error 500",tech,high,positive
+"I want to change my billing date",tech,low,negative
+"I was charged after cancellation",tech,high,negative
+"App is freezing frequently",billing,high,positive
+"Need help with device compatibility",billing,high,positive
+"I want to add a new user to my plan",billing,high,negative
+"How do I access old invoices?",billing,low,negative
+"App is not loading after update",tech,low,positive
+"Need help with password recovery",tech,high,negative
+"Charged even though I cancelled trial",billing,high,negative
+"Cannot download monthly report",tech,high,negative
+"My discount coupon didn't apply",tech,high,positive
+"App says network error",tech,high,positive
+"Where is the cancel subscription option?",billing,low,negative
+"Subscription renewed without notice",billing,high,negative
+"I need a payment receipt",billing,low,positive
+"Login page keeps refreshing",billing,high,negative
+"Chatbot gave me wrong info",billing,high,positive
+"How to remove my credit card?",billing,low,positive
+"I was offered a promo but didn't get it",billing,high,positive
+"Why am I charged more than expected?",tech,high,positive
+"No response from customer care",tech,high,negative
+"App logs me out frequently",tech,high,negative
+"Need help applying for refund",billing,low,negative
+"Why is my invoice showing late fees?",tech,low,positive
+"How to pause my subscription?",billing,high,negative
+"Downloaded invoice is blank",tech,high,positive
+"App not syncing with my account",tech,low,positive
+"Facing issue with two-factor authentication",tech,low,positive
+"Why was my account suspended?",billing,low,negative
+"Payment method not accepted",billing,high,negative
+"Where to find transaction history?",tech,high,positive
+"App keeps crashing on login screen",tech,high,positive
+"Please escalate this issue to supervisor",tech,high,negative
